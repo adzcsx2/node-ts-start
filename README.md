@@ -7,7 +7,7 @@
 直接 clone 该项目，进行属于你自己的开发。
 
 ```bash
-git clone https://github.com/yiqingfeng/node-ts-start
+git clone https://github.com/adzcsx2/node-ts-start
 
 npm install --legacy-peer-deps
 
